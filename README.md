@@ -1,2 +1,2 @@
-# JS-Clock
+# js-clock
 created by vanilla js
